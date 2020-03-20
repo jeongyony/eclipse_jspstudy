@@ -28,6 +28,8 @@
 	System.out.println("str=> " +str);
 	out.println("<h1>" + "Str =" + str );
 %>
+<hr>
+str의 값 출력=<%=str %>
 <hr><p>
 정수 f의 반올림은? <%=i %> <p>
 현재 날자와 시간은? <%=d.toString() %><p>
