@@ -29,6 +29,7 @@
 	out.println("<h1>" + "Str =" + str );
 %>
 <hr>
+<hr>
 str의 값 출력=<%=str %>
 <hr><p>
 정수 f의 반올림은? <%=i %> <p>
